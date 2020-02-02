@@ -1,4 +1,4 @@
-# RedBubble Cart - Coding Test
+# Cart - Coding Test
 This project calculates the total price of a cart. It takes 2 files as arguments:
 - a JSON file with the cart content
 - a JSON file with the base prices for each product type
